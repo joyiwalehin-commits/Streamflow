@@ -1,0 +1,5 @@
+{
+	"appId": "com.streamflow.live",
+	"appName": "StreamFlow",
+	"webDir": "dist"
+}
